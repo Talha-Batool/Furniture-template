@@ -1,0 +1,102 @@
+.footer-section{
+    background-color: $skyblue;
+    margin-top: 5em;
+    padding: 7em 0 ;
+}
+
+
+.footer-icon{
+   color: #6DB7DD;
+   font-size: 30px;
+}
+.small-river{
+    color: $grey;
+    font-size: 18px;
+}
+.services{
+    cursor: pointer;
+    color: $grey;
+    font-size: 16px;
+    .font{
+        font-size: 17px;
+        font-weight: normal;
+
+    }
+   
+    i{
+        color: #6DB7DD;
+       
+    }
+    
+    :hover{
+        color: #3099cd;
+    }
+}
+.chair-img{
+    background-image: url(../images/image_1.jpg);
+    display: block;
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px;
+}
+.text{
+    padding-left: 20px;
+    :hover{
+        color: #3099cd;
+    }
+    h3{
+        font-size: 16px;
+        color: $darkblue;
+        cursor: pointer; 
+       
+    }
+}
+.meta{
+    font-size: 12px;
+    color: $darkblue;
+    :hover{
+        color: $darkblue;
+    }
+    i{
+        color: #3099cd;
+       
+    }
+}
+
+.living-room-img{
+    background-image: url(../images/image_2.jpg);
+    display: block;
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px;
+}
+.fa-solid{
+    color:#6DB7DD;
+    font-size: 14px;
+}
+p{
+    color: $grey;
+    font-weight: 400;
+}
+.mountain-view{
+    font-weight: normal;
+}
+.last-section{
+    background-color: #ABD6EB;
+    height: 100px;
+    .last-text{
+        color: $grey;
+    }
+    span{
+        color: #3099cd;
+    }
+    .fa-heart{
+        color: $grey;
+    }
+}

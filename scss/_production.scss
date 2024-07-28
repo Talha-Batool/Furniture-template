@@ -1,0 +1,66 @@
+.production{
+    background-color: $light;
+    
+    .icon{
+        width: 130px;
+       height: 130px;
+       background: $white;
+       margin: 0 auto;
+       margin-bottom: 30px;
+       border-radius: 50%;
+       position: relative;
+       .number{
+        position: absolute;
+        top: 2px;
+        right: 4px;
+        content: '';
+        width: 30px;
+        height: 30px;
+        background: $brown;
+        border-radius: 50%;
+       }
+      
+    }
+    p{
+        font-size: 18px;
+        color: $gray;
+
+    }
+    .icon-2{  
+        width: 130px;
+        height: 130px;
+        background: $lightblue;
+        margin: 0 auto;
+        margin-bottom: 30px;
+        border-radius: 50%;
+        position: relative;
+        .number{
+         position: absolute;
+         top: 2px;
+         right: 4px;
+         content: '';
+         width: 30px;
+         height: 30px;
+         background: $brown;
+         border-radius: 50%;
+    }
+   
+}
+h4{
+    color: $darkblue;
+}
+.fa-calculator{
+    color: $brown;
+    font-size: 65px;
+}
+.production{
+    font-size: 65px;
+    background-color: transparent;
+    
+
+}
+.fa-box-archive{
+    color: $brown;
+    font-size: 65px;
+}
+}

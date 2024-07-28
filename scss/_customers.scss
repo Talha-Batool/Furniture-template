@@ -1,0 +1,132 @@
+.happy-costomers{
+    background-color: $light;
+}
+.happy-customers-text{
+    padding: 6em 0 6em;
+    
+   
+}
+.first-customer{
+    width: 360px;
+    height: auto;
+    background-color: $white;
+    position: relative;
+
+    .comma-bg{
+        position: absolute;
+        top: -20px;
+        left: 30px;
+        width: 40px;
+        height: 40px;
+        background: $brown;
+    }
+    p{
+        font-size: 17px;
+        color: $grey;
+        line-height: 1.8;
+    }
+    .customer-img{
+        background-image: url(../images/person_1.jpg);
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .name{
+        color: $brown;
+    }
+    .marketing-manager{
+        color: $darkblue;
+        font-size: 16px;
+    }
+   .fa-solid{
+    color: $white;
+   }
+    
+}
+
+
+.second-customer{
+    width: 360px;
+    height: auto;
+    position: relative;
+    background-color: $brown;
+
+    .comma-bg{
+        position: absolute;
+        top: -20px;
+        left: 30px;
+        width: 40px;
+        height: 40px;
+        background: $white;
+        .fa-quote-left{
+            color: $brown;
+        }
+    }
+   
+    p{
+        font-size: 17px;
+        color: $grey;
+        line-height: 1.8;
+    }
+    
+    .customer-img{
+        background-image: url(../images/person_2.jpg);
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .name{
+        color: $brown;
+    }
+    .marketing-manager{
+        color: $darkblue;
+        font-size: 16px;
+    }
+}
+
+.third-customer{
+    width: 360px;
+    height: auto;
+    position: relative;
+    background-color: $white;
+
+    .comma-bg{
+        position: absolute;
+        top: -20px;
+        left: 30px;
+        width: 40px;
+        height: 40px;
+        background: $brown;
+       
+    }
+    p{
+        font-size: 17px;
+        color: $grey;
+        line-height: 1.8;
+    }
+    .customer-img{
+        background-image: url(../images/person_3.jpg);
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .name{
+        color: $brown;
+    }
+    .marketing-manager{
+        color: $darkblue;
+        font-size: 16px;
+    }
+    .fa-solid{
+        color: $white;
+       }
+}

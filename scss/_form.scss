@@ -1,0 +1,28 @@
+.bg-contact{
+    background-color: $light;
+    .form-bg{
+        background-color: $white;
+        width: 70%;
+    }
+    p{
+        color: $grey;
+        font-size: 17px;
+        line-height: 1.8;
+        font-weight: 400;
+         
+    }
+    .color-black{
+        color: $black;
+    }
+    .number{
+        color: $brown;
+        list-style: none;
+        text-decoration: none;
+    }
+    
+}
+.color-link{
+    color: $brown;
+    list-style: none;
+    text-decoration: none;
+}

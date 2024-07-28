@@ -1,0 +1,22 @@
+.about-us-section{
+.about-us-img{
+    background-image: url(../images/about.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+}
+.text-column{
+    margin: 7em 0;
+    h2{
+        line-height: 1.5;
+    }
+    p{
+        font-size: 17px;
+        color: $grey;
+        line-height: 1.6;
+        font-weight: 500
+    }
+   
+}
+}

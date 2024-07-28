@@ -1,0 +1,84 @@
+// .row{
+//     margin-right: 0;
+//     margin-left: 0;
+// }
+.icon-section{
+    overflow: hidden;
+
+.text-section-1{
+    background-color: #F5EBEB;
+    padding: 40px;
+    width: 100%;
+    .icon-1{
+        background-color: #cb9696;
+        width: 64px;
+        height: 64px;
+        border-radius: 50%;
+    }
+    .text-icon-1{
+        p{
+            font-size: 17px;
+            color: $grey;
+            line-height: 1.8;
+        }
+    }
+}
+
+.text-section-2{
+    background-color: #DCEBDD;
+    padding: 40px;
+    width: 100%;
+    .icon-2{
+        background-color: #8BBD8E;
+        width: 64px;
+        height: 64px;
+        border-radius: 50%;
+        
+    }
+    .text-icon-2{
+        p{
+            font-size: 17px;
+            color: $grey;
+            line-height: 1.8;
+        }
+    }
+}
+.text-section-3{
+    background-color: #F5EFD8;
+    padding: 40px;
+    width: 100%;
+    .icon-3{
+        background-color: #D1B54A;
+        width: 64px;
+        height: 64px;
+        border-radius: 50%;
+        
+    }
+    .text-icon-3{
+        p{
+            font-size: 17px;
+            color: $grey;
+            line-height: 1.8;
+        }
+    }
+}
+.text-section-4{
+    background-color: #F4E6D8;
+    padding: 40px;
+    width: 100%;
+    .icon-4{
+        background-color: #D29A61;
+        width: 64px;
+        height: 64px;
+        border-radius: 50%;
+       
+        }
+    }
+    .text-icon-4{
+        p{
+            font-size: 17px;
+            color: $grey;
+            line-height: 1.8;
+        }
+}
+}
